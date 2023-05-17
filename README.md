@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Vanish-Zeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanish-Zeng&show_icons=true&theme=tokyonight)
+
 <!--
 **Vanish-Zeng/Vanish-Zeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
