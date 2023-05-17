@@ -1,14 +1,14 @@
 # Hi there 👋
 
-## Today's visits
+## 🐾 Today's visits
 
 ![Visitor Count](https://profile-counter.glitch.me/Vanish-Zeng/count.svg)
 
-## Repository status statistics
+## 🎛️ Repository status statistics
 
 ![Vanish-Zeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanish-Zeng&show_icons=true&theme=tokyonight)
 
-## Languages
+## 📊 Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanish-Zeng&layout=compact)](https://github.com/Vanish-Zeng/github-readme-stats)
 
