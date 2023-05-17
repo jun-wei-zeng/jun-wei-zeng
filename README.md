@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/Vanish-Zeng/count.svg)
+
 ![Vanish-Zeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanish-Zeng&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanish-Zeng&layout=compact)](https://github.com/Vanish-Zeng/github-readme-stats)
 
 <!--
 **Vanish-Zeng/Vanish-Zeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
