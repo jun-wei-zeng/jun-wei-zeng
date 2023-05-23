@@ -8,7 +8,11 @@
 
 ## 🎛️ Repository status statistics
 
-![Vanish-Zeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanish-Zeng&show_icons=true&theme=tokyonight)
+<div align="center">
+  <picture>
+    ![Vanish-Zeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanish-Zeng&show_icons=true&theme=tokyonight)
+  </picture>
+</div>
 
 ## 📊 Languages
 
