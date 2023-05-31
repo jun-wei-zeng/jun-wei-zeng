@@ -4,11 +4,18 @@
 
 ## 🐾 Today's visits
 
-![Visitor Count](https://profile-counter.glitch.me/Vanish-Zeng/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/Vanish-Zeng/count.svg) -->
+
+<div align="center">
+  <a href="https://github.com/Vanish-Zeng">
+    <img src="https://profile-counter.glitch.me/Vanish-Zeng/count.svg">
+  </a>
+</div>
 
 ## 🎛️ Repository status statistics
 
-![Vanish-Zeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanish-Zeng&show_icons=true&theme=tokyonight)
+<!-- ![Vanish-Zeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanish-Zeng&show_icons=true&theme=tokyonight) -->
+
 <div align="center">
   <a href="https://github.com/Vanish-Zeng">
     <img src="https://github-readme-stats.vercel.app/api?username=Vanish-Zeng&show_icons=true&theme=tokyonight">
@@ -17,7 +24,7 @@
 
 ## 📊 Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanish-Zeng&layout=compact)](https://github.com/Vanish-Zeng/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanish-Zeng&layout=compact)](https://github.com/Vanish-Zeng/github-readme-stats) -->
 
 <div align="center">
   <a href="https://github.com/Vanish-Zeng/github-readme-stats">
