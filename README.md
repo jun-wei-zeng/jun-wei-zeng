@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=1B7DF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vanish-Zeng!" alt="Typing SVG" /></a>
 </div>
 
-## 🐾 Today's visits
+## 🐾 Visits
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/Vanish-Zeng/count.svg) -->
 
