@@ -12,25 +12,24 @@
   </a>
 </div>
 
-## 🎛️ Repository status statistics
+## 🎛️ Statistics
 
 <!-- ![Vanish-Zeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanish-Zeng&show_icons=true&theme=tokyonight) -->
-
-<div align="center">
-  <a href="https://github.com/Vanish-Zeng">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vanish-Zeng&show_icons=true&theme=tokyonight">
-  </a>
-</div>
-
-## 📊 Languages
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanish-Zeng&layout=compact)](https://github.com/Vanish-Zeng/github-readme-stats) -->
 
-<div align="center">
-  <a href="https://github.com/Vanish-Zeng/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanish-Zeng&layout=compact">
-  </a>
-</div>
+<!-- <div align="center" style="display: inline-block"> -->
+  <div align="center">
+    <a href="https://github.com/Vanish-Zeng">
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=Vanish-Zeng&show_icons=true&theme=tokyonight">
+    </a>
+<!--   </div>
+  
+  <div> -->
+    <a href="https://github.com/Vanish-Zeng/github-readme-stats">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanish-Zeng&layout=compact&theme=tokyonight">
+    </a>
+  </div>
+<!-- </div> -->
 
 <!--
 **Vanish-Zeng/Vanish-Zeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
