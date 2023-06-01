@@ -25,7 +25,7 @@
 <!--   </div>
   
   <div> -->
-    <a href="https://github.com/Vanish-Zeng/github-readme-stats">
+    <a href="https://github.com/Vanish-Zeng">
       <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanish-Zeng&layout=compact&theme=tokyonight">
     </a>
   </div>
