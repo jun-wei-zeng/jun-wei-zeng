@@ -20,13 +20,13 @@
 <!-- <div align="center" style="display: inline-block"> -->
   <div align="center">
     <a href="https://github.com/Vanish-Zeng">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vanish-Zeng&show_icons=true&theme=tokyonight">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vanish-Zeng&show_icons=true&theme=algolia">
     </a>
 <!--   </div>
   
   <div> -->
     <a href="https://github.com/Vanish-Zeng">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanish-Zeng&layout=compact&theme=tokyonight">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanish-Zeng&layout=compact&theme=algolia">
     </a>
   </div>
 <!-- </div> -->
